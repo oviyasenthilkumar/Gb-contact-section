@@ -1,0 +1,19 @@
+/*mobile view*/
+
+@media(max-width:960px){
+	.contact-col1{
+	width:100%;
+	}
+	.contact-col2{
+		width:100%;
+	}
+}
+/*destap view*/
+@media(min-width:961px){
+	.contact-col1{
+	width:40%;
+	}
+	.contact-col2{
+		width:60%;
+	}
+}
